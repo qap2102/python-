@@ -1,0 +1,1 @@
+{"name":"Local: PY04011","url":"d:\\Pyhton on\\PY04011.py","tests":[{"id":1765291322564,"input":"3\nAn > Binh\nBinh > Cong\nAn < Cong","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Pyhton on\\PY04011.py","group":"local","local":true}

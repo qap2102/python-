@@ -1,0 +1,1 @@
+{"name":"Local: PYKT092","url":"d:\\Pyhton on\\PYKT092.py","tests":[{"id":1765292763867,"input":"2\nNguyen  hong ngat\n22\nKinh\n1\n  Chu thi MINh\n14\nDao\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Pyhton on\\PYKT092.py","group":"local","local":true}
