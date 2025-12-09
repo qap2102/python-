@@ -1,1 +1,1 @@
-{"name":"Local: 2","url":"d:\\Pyhton on\\2.3.py","tests":[{"id":1765207962629,"input":"2\naabbcceffgh\nabcabc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Pyhton on\\2.3.py","group":"local","local":true}
+{"name":"Local: 2","url":"d:\\Pyhton on\\2.3.py","tests":[{"id":1765210274429,"input":"2\naabbcceffgh\nabcabc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Pyhton on\\2.3.py","group":"local","local":true}
