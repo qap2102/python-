@@ -1,0 +1,32 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Nguyễn Văn A",
+            "age": 20,
+            "major": "Công nghệ thông tin",
+            "gpa": 3.5
+        },
+        {
+            "id": 2,
+            "name": "Trần Thị B",
+            "age": 21,
+            "major": "Khoa học máy tính",
+            "gpa": 3.8
+        },
+        {
+            "id": 3,
+            "name": "Lê Văn C",
+            "age": 19,
+            "major": "An toàn thông tin",
+            "gpa": 3.2
+        },
+        {
+            "id": 4,
+            "name": "Phạm Thị D",
+            "age": 22,
+            "major": "Kỹ thuật phần mềm",
+            "gpa": 3.9
+        }
+    ]
+}
