@@ -1,0 +1,21 @@
+import ast
+
+n=int(input())
+for _ in range(n):
+    s=input().strip()
+
+    data_dict = ast.literal_eval(s)
+
+    thu_do = []
+    cnt=0
+    cnt1=0
+    for key, value in data_dict.items():
+        value = value.lower()
+        if value[0]=='a' or value[0]=='e' or value[0]=='i' or value[0]=='o' or value[0]=='u':
+            thu_do.append(key)
+        if len(key)>5:
+            cnt+=1
+        if len(value)<6:
+            cnt1+=1
+    
+    print(f'({thu_do}, {cnt}, {cnt1})')
